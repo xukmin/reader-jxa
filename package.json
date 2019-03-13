@@ -1,0 +1,14 @@
+{
+  "name": "reader-jxa",
+  "version": "1.0.0",
+  "description": "A JXA script to open Google Reader, Google Keep and EuDic on a new desktop.",
+  "main": "read-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Min Xu (xukmin@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "osa2": "^0.2.3"
+  }
+}
